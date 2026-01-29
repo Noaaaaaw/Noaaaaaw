@@ -2,9 +2,9 @@
 
 Perkenalkan nama saya **Dave Ryano Firdaus Magenta**.<br>
 
-Saya seorang **Mahasiswa yang belajar** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **Mahasiswa Informatika Universitas Trisakti Semester 6 Lulusan Program** [Dicoding](https://www.dicoding.com/).<br>
 
-Saya seorang mahasiswa yang memiliki pengalaman terkait pembuatan aplikasi android.<br>
+Saya adalah seorang mahasiswa Informatika yang memiliki pengalaman terkait pembuatan aplikasi Android dan Web.<br>
 
 semoga kalian tertarik untuk berkenalan
 
